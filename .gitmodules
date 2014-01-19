@@ -1,0 +1,3 @@
+[submodule "morphology"]
+	path = morphology
+	url = https://github.com/PeterisP/morphology
