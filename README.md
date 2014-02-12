@@ -27,4 +27,4 @@ Nagivate to [http://localhost:8080/](http://localhost:8080/) in your browser
 License
 ---
 
-MIT
+GPLv2 because verbs.txt is derived work and also needs to be licensed under GPLv2.
